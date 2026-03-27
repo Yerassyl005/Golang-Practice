@@ -1,0 +1,9 @@
+go run -race problem1_syncmap.go
+
+go run -race problem1_mutex.go
+
+go run -race problem2_mutex.go
+
+go run -race problem2_atomic.go
+
+go run -race problem3_fanin.go
